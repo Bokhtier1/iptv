@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/b/b9/%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg/800px-%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg.png",Channel name"Ekusay tv"
-Channel link="http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/b/b9/%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg/800px-%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg.png",Ekusay tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",Channel name="RTV"
-Channel link="https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8"
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
