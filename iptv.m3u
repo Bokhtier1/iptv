@@ -62,11 +62,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="BANGLADESH" tvg-log="https://lh3.googleusercontent.com/proxy/Zn8cJeXeUrb7HW_SpefyPBOnZndmqDyXjJJcPd1StWQd5XTbaTh6XVUlEjSuSUvYtLLFZsg7EueSSfd2k9hLBA",NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY TV
+
 
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
@@ -75,4 +72,4 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/B4umusic.svg/261px-B4umusic.svg.png",B4U
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-#EXTI
+
