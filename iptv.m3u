@@ -61,8 +61,6 @@ https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY TV
 
-
-
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 
@@ -75,21 +73,14 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-bangla-cinema.png",ZEE BANGLA CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-
-
 EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/03/Zee-Bangla.jpg",ZEE BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
-
 
 EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
-
-
 EXTINF:-1 group-title="Title" tvg-logo="logo",Channel name
 Channel link
-
 
 EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="logo",Channel name
 Channel link
