@@ -59,7 +59,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATN_Bangla.svg",ATN BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="BANGLADESH" tvg-log="",NTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="BANGLADESH" tvg-log="https://lh3.googleusercontent.com/proxy/Zn8cJeXeUrb7HW_SpefyPBOnZndmqDyXjJJcPd1StWQd5XTbaTh6XVUlEjSuSUvYtLLFZsg7EueSSfd2k9hLBA",NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 
