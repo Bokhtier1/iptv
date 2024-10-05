@@ -59,7 +59,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="BANGLADESH" tvg-log="https://lh3.googleusercontent.com/proxy/Zn8cJeXeUrb7HW_SpefyPBOnZndmqDyXjJJcPd1StWQd5XTbaTh6XVUlEjSuSUvYtLLFZsg7EueSSfd2k9hLBA",NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://media.licdn.com/dms/image/v2/D5622AQEP42TrSTZe9A/feedshare-shrink_800/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=paSz9ahr7hamV10AWRd9QdXd5owmp8bIrEjX2Z1dQe4",AMAR DIGITAL
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
