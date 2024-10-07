@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="" group-title="BOKHTIER IPTV",
+#EXTINF:-1  tvg-logo="https://drive.google.com/file/d/1771r9fBRqA1IZ0O8o-O0bmT-2kgUtHlj/view?usp=drivesdk" group-title="BOKHTIER IPTV",
 https://drive.google.com/file/d/1771r9fBRqA1IZ0O8o-O0bmT-2kgUtHlj/view?usp=drivesdk
+
+
 #EXTINF:-1  tvg-logo="https://cdn6.aptoide.com/imgs/0/9/c/09c01e7560f18eee5732a88b877b7793_icon.png" group-title="BANGLADESH",JAMUNA TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg" group-title="BANGLADESH",CHANNEL 24
