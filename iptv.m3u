@@ -67,6 +67,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" group-title="ISLAMIC",PEACE TV ENGLISH
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1153758706347253760/s2iOPRkj_400x400.png" group-title="ISLAMIC",IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8
+
+
+
+
 
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" group-title="INFORMATIVE",ANIMAL PLANET
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
