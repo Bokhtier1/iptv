@@ -69,6 +69,31 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" group-title="INDIAN BANGLA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
+https://starshare.live:443/live/3569087360/6542246996/998.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/640px-Sangsad_Television_Emblem.svg.png",SONGSOD TV
+https://starshare.live:443/live/3569087360/6542246996/413.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",BIJOY TV
+https://starshare.live:443/live/3569087360/6542246996/408.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/07/30/untitled_design_-_2021-07-30t202722.820.jpg", NEXUS TV
+https://starshare.live:443/live/3569087360/6542246996/411.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pngtom.com/files/preview/960x960/31703011479wqebh8cft9elrzdqqugzqhehr5yrd468tuiphrqkonwdmthjacx8nwtk2z7gh1u4hqituasci8qzbfrjugsdfcuf0q87npdkp4pa.png",BOISAKHI TV
+https://starshare.live:443/live/3569087360/6542246996/429.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
+https://starshare.live:443/live/3569087360/6542246996/433.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
+https://starshare.live:443/live/3569087360/6542246996/434.ts
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://m.media-amazon.com/images/I/21rORkifP6L.png",DESHI TV
+https://starshare.live:443/live/3569087360/6542246996/414.ts
+
+
 
 #EXTINF:-1  tvg-logo="https://www.natunsomoy.net/uploads/shares/jpgtopngconverter-com_-_2024-08-21T105850.117-2024-08-21-10-59-02.jpg" group-title="ISLAMIC",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -82,7 +107,6 @@ http://208.86.19.13:81/507.stream/index.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="WORLD NEWS",BBC NEWS 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" group-title="INFORMATIVE",ANIMAL PLANET
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
