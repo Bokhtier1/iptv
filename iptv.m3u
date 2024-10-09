@@ -42,32 +42,22 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESH",NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
 https://starshare.live:443/live/3569087360/6542246996/998.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/640px-Sangsad_Television_Emblem.svg.png",SONGSOD TV
 https://starshare.live:443/live/3569087360/6542246996/413.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",BIJOY TV
 https://starshare.live:443/live/3569087360/6542246996/408.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/07/30/untitled_design_-_2021-07-30t202722.820.jpg", NEXUS TV
 https://starshare.live:443/live/3569087360/6542246996/411.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pngtom.com/files/preview/960x960/31703011479wqebh8cft9elrzdqqugzqhehr5yrd468tuiphrqkonwdmthjacx8nwtk2z7gh1u4hqituasci8qzbfrjugsdfcuf0q87npdkp4pa.png",BOISAKHI TV
 https://starshare.live:443/live/3569087360/6542246996/429.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
 https://starshare.live:443/live/3569087360/6542246996/433.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
 https://starshare.live:443/live/3569087360/6542246996/434.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://m.media-amazon.com/images/I/21rORkifP6L.png",DESHI TV
 https://starshare.live:443/live/3569087360/6542246996/414.ts
-
-
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="HINDI MUSIC",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
@@ -75,6 +65,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPvDlX-p4KcOG0526Ywb18cJmN_nB-PovIg&s" group-title="HINDI MUSIC",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="INDIAN BANGLA",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-bangla-cinema.png" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA
@@ -95,26 +86,18 @@ http://217.20.112.199/starjalshahd/index.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" group-title="INDIAN BANGLA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="INDIAN BANGLA",JALSHA MOVIES
 https://starshare.live:443/live/3569087360/6542246996/98884.ts
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",AKASH AATH
 https://starshare.live:443/live/3569087360/6542246996/396.ts
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUNBANHD_Thumbnail-v1/SUNBANHD_Thumbnail.png",SUN BANGLA
 https://starshare.live:443/live/3569087360/6542246996/3753.ts
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://w7.pngwing.com/pngs/609/989/png-transparent-tv9-television-channel-news-broadcasting-television-show-business-television-blue-text-thumbnail.png",TV 9
 https://starshare.live:443/live/3569087360/6542246996/2885.ts
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://archive.org/download/republic-bangla/images__1_-removebg-preview.png",REPUBLIC BANGLA
 https://starshare.live:443/live/3569087360/6542246996/376278.ts
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a8823f200168033.Y3JvcCwxMjU5LDk4NCwzMzAsOTM.png",KOLKATA NEWS
 https://starshare.live:443/live/3569087360/6542246996/3819.ts
-
-
 
 
 #EXTINF:-1  tvg-logo="https://www.natunsomoy.net/uploads/shares/jpgtopngconverter-com_-_2024-08-21T105850.117-2024-08-21-10-59-02.jpg" group-title="ISLAMIC",PEACE TV BANGLA
@@ -123,7 +106,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1153758706347253760/s2iOPRkj_400x400.png" group-title="ISLAMIC",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="WORLD NEWS",AL ZAZIRA
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
