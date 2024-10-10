@@ -129,6 +129,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1153758706347253760/s2iOPRkj_400x400.png" group-title="ISLAMIC",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.imgpile.com/f/58KYg4.jpg" group-title="ISLAMIC",TIME TV
+https://starshare.live:443/live/3569087360/6542246996/2882.ts
 
 #EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="WORLD NEWS",AL ZAZIRA
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
