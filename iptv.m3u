@@ -180,7 +180,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS",DUBAI SPORTS HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T SPORTS HD
+https://fdev.short.gy/PakVenGxRanaPk.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/318957595/s718/toofan.jpg" group-title="BANGLADESHI MOVIE",TOOFAN
