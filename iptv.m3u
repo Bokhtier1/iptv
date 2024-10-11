@@ -66,12 +66,12 @@ http://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloud.matopath.com/mop/2022/09/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.png",Nagorik TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit_Fc4EgF4QZrY6DuZBQHUM_xCv3MR5ghD5KN-Cqq_wD6VGhK5gqwTxM&s=10",Jago News 24
-https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="HINDI MUSIC",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" group-title="HINDI MUSIC",9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/B4umusic.svg/261px-B4umusic.svg.png" group-title="HINDI MUSIC",B4U
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPvDlX-p4KcOG0526Ywb18cJmN_nB-PovIg&s" group-title="HINDI MUSIC",ZOOM
