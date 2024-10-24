@@ -193,7 +193,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS",DUBAI SPORTS HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T SPORTS HD
-https://fdev.short.gy/PakVenGxRanaPk.m3u8
+http://176.119.29.52/live.ts?channelId=48010&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: Fast Sports HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/87460.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: FLOW SPORTS
