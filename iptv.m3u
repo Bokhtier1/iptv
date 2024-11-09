@@ -56,7 +56,7 @@ https://starshare.live:443/live/3569087360/6542246996/429.ts
 https://starshare.live:443/live/3569087360/6542246996/433.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
 https://starshare.live:443/live/3569087360/6542246996/434.ts
-#EXTINF:-1 group-title="BANGLADESH"https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",DESHI TV
+#EXTINF:-1  tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESH",DESHI TV
 https://starshare.live:443/live/3569087360/6542246996/414.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
 http://starshare.live:8080/live/Leroy123/Leroy123/4231.ts
