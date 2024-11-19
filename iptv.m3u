@@ -65,6 +65,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=103&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESH",T SPORTS
+http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
 
 #EXTINF:-1  tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="BANGLADESH",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
