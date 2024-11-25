@@ -249,21 +249,22 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="INDIAN BANGLA",ENTER 10 BANGLA
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-bangla-cinema.png" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/03/Zee-Bangla.jpg" group-title="INDIAN BANGLA",ZEE BANGLA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="INDIAN BANGLA",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="INDIAN BANGLA",SONY AATH
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=SHISHIR&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="INDIAN BANGLA",CLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="INDIAN BANGLA",ZEE 24 GHONTA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=78&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/898/711/png-clipart-star-jalsha-star-india-television-channel-television-show-star-of-the-west-milling-co-satellite-channel-logo-television-angle.png" group-title="INDIAN BANGLA",STAR JALSHA
-http://217.20.112.199/starjalshahd/index.m3u8
+https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJalsha.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="INDIAN BANGLA",ABP ANNANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" group-title="INDIAN BANGLA",BANGLA JAGO
