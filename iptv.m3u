@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://drive.usercontent.google.com/download?id=177w0xx6_DFwvESgg8zkej0BVSWlM4d_g&export=download" group-title="BOKHTIER IPTV",BOKHTIER IPTV
-https://drive.usercontent.google.com/download?id=17kB0WwyIy2ocCUyDrKfRzcMhra8Auv8r&export=download
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
